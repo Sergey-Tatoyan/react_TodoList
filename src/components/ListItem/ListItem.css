@@ -1,0 +1,22 @@
+.todo-list-buttons .btn {
+  margin: 0 5px;
+  width: 45px;
+  text-align: center;
+}
+
+.todo-list-title {
+  font-size: 18px;
+  line-height: 36px;
+}
+.todo-list-title.important {
+  color: tomato;
+  font-weight: bold;
+}
+.todo-list-title.done {
+  color: #646464;
+  font-weight: normal;
+  text-decoration: line-through;
+}
+.todo-list-title:hover{
+  cursor: pointer;
+}

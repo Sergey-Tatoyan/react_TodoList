@@ -1,0 +1,11 @@
+.filter-data input {
+  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 6.5px;
+}
+
+.filter-data .btn {
+  width: 80px;
+  margin: 0 2px;
+}
